@@ -1,0 +1,36 @@
+{
+  "name": "kokhaomae",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wutti1999/Kokhaomae.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wutti1999/Kokhaomae/issues"
+  },
+  "homepage": "https://github.com/wutti1999/Kokhaomae#readme",
+  "dependencies": {
+    "admin": "^1.4.1",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "firebase": "^8.9.1",
+    "firebase-admin": "^9.11.1",
+    "nodemon": "^2.0.12",
+    "path": "^0.12.7"
+  },
+  "engines": {
+    "node": "14.17.1",
+    "npm": "6.14.13."
+  }
+}
